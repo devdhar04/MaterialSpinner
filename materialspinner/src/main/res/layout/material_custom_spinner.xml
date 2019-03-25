@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:id="@+id/spinner_layout"
+        android:background="@drawable/payment_edit_bg">
+
+        <Spinner
+            android:id="@+id/spinner"
+            style="@style/Widget.AppCompat.DropDownItem.Spinner"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/booking_ui_component_height"
+            android:scaleType="center"
+            android:spinnerMode="dropdown"
+            android:visibility="visible" />
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:background="@color/bg"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/booking_ui_component_height"
+        android:gravity="start|center_vertical"
+        android:paddingLeft="@dimen/dp_15"
+        android:paddingTop="@dimen/dp_10"
+        android:paddingRight="4dp"
+        android:textSize="12sp"
+
+        android:textColor="@color/faded_orange"
+        android:visibility="invisible"
+        />
+
+
+</FrameLayout>
