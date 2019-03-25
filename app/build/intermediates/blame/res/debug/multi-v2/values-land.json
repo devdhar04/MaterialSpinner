@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dev.dhar/Documents/Workspace/MaterialSpinner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/dev.dhar/MaterialSpinner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/dev.dhar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/183c97b639016cdb14db1173da36374e/res/values-land/values-land.xml",
+                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/904d7bf72f2f7f4947bb286199e95c6b/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/dev.dhar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f96a0ca83b67e45037d1eb33628928c6/res/values-land/values-land.xml",
+                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/93c7aacc29bbeec9b5d37d67acb3dc51/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

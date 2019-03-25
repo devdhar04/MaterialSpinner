@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dev.dhar/Documents/Workspace/MaterialSpinner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/Users/dev.dhar/MaterialSpinner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/dev.dhar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/183c97b639016cdb14db1173da36374e/res/values-v17/values-v17.xml",
+                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/904d7bf72f2f7f4947bb286199e95c6b/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
