@@ -52,6 +52,8 @@ dependencies
 
 </android.support.constraint.ConstraintLayout>
 ```
+
+Set adapter to Spinner
 ```bash
 var list_of_items = arrayOf("Select Country","USA", "Japan", "India")
 var spinner = findViewById(R.id.material_spinner)
@@ -63,6 +65,12 @@ val aa = ArrayAdapter(this, android.R.layout.simple_spinner_item, list_of_items)
 aa.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
 // Set Adapter to Spinner
 spinner!!.setAdapter(aa)
+
+```
+
+Set Error in Spinner
+```bash
+spinner.setError("Please select Country")
 ```
 
 ## Contributing
