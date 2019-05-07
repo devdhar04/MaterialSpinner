@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Mar 25 16:28:02 JST 2019
+#Tue May 07 10:12:38 JST 2019
 1.base=/Users/dev.dhar/MaterialSpinner/app/build/intermediates/dex/debug/mergeLibDexDebug/out
 2.path=classes.dex
 0.baseType=DIRECTORY

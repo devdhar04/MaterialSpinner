@@ -4,7 +4,7 @@
             "outputFile": "/Users/dev.dhar/MaterialSpinner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/904d7bf72f2f7f4947bb286199e95c6b/res/values-v23/values-v23.xml",
+                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/f0ee14871b087814911d254e4d1ad244/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/a5a346e37e21f7a40170842ed03f882c/res/values-v23/values-v23.xml",
+                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/caa33727ab2da1dd2ad77257b7b9a605/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

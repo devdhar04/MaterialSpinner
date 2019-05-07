@@ -4,7 +4,7 @@
             "outputFile": "/Users/dev.dhar/MaterialSpinner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/904d7bf72f2f7f4947bb286199e95c6b/res/values-land/values-land.xml",
+                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/f0ee14871b087814911d254e4d1ad244/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/93c7aacc29bbeec9b5d37d67acb3dc51/res/values-land/values-land.xml",
+                    "source": "/Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/d86fb9ff2de84e4645ae4749dcfe8c54/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

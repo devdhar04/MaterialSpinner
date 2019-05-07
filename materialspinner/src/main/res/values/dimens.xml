@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="booking_ui_component_height">56dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_15">10dp</dimen>
+</resources>
