@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialSpinner.iml" filepath="$PROJECT_DIR$/MaterialSpinner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/materialspinner/materialspinner.iml" filepath="$PROJECT_DIR$/materialspinner/materialspinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MaterialSpinner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MaterialSpinner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/materialspinner/MaterialSpinner.materialspinner.iml" filepath="$PROJECT_DIR$/.idea/modules/materialspinner/MaterialSpinner.materialspinner.iml" />
     </modules>
   </component>
 </project>

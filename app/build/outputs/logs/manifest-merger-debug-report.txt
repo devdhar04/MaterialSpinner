@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:multidex:1.0.2] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/3eabc5d832303cba0e9eef3f7a32aef0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/ea50cd0522f6f802398b6e1828a74a94/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/d86fb9ff2de84e4645ae4749dcfe8c54/AndroidManifest.xml:17:1-24:12
-MERGED from [:materialspinner] /Users/dev.dhar/MaterialSpinner/materialspinner/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:materialspinner] /Users/dev.dhar/Documents/GitHub/MaterialSpinner/materialspinner/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/f0ee14871b087814911d254e4d1ad244/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/5eda0129f920e75c2ba9a6d3e39f6008/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/2c822b24ce734f7f14ae2ab99fb2b060/AndroidManifest.xml:17:1-22:12
@@ -37,25 +37,25 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dev.dhar/.gradle/cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/b5f4494a3e3f964a2182962e54cf9766/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/ddbbcd01151b893b86efd808b68ffe46/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/eef4dfe3d12d7dc381953693d9398a48/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:3:11-44
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/ea50cd0522f6f802398b6e1828a74a94/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/ea50cd0522f6f802398b6e1828a74a94/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/d86fb9ff2de84e4645ae4749dcfe8c54/AndroidManifest.xml:22:5-20
@@ -67,47 +67,47 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dev.dhar/.gr
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/c9cc76c0ed6ad47e7b61f6d2a8ce258e/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:10:13-39
 	android:label
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:8:13-45
 	android:roundIcon
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:9:13-58
 	android:icon
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:7:13-47
 	android:allowBackup
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:6:13-39
 	android:theme
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:11:13-44
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:11:13-44
 activity#com.dev.materialspinner.activity.MainActivity
-ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:12:9-21:20
+ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:12:9-21:20
 	android:label
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:14:17-49
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:14:17-49
 	android:theme
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:15:17-60
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:15:17-60
 	android:name
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:13:17-54
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:13:17-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:17:17-68
+ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:17:17-68
 	android:name
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:19:17-76
+ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:multidex:1.0.2] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/3eabc5d832303cba0e9eef3f7a32aef0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/3eabc5d832303cba0e9eef3f7a32aef0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/ea50cd0522f6f802398b6e1828a74a94/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/ea50cd0522f6f802398b6e1828a74a94/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:design:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/d86fb9ff2de84e4645ae4749dcfe8c54/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/d86fb9ff2de84e4645ae4749dcfe8c54/AndroidManifest.xml:20:5-44
-MERGED from [:materialspinner] /Users/dev.dhar/MaterialSpinner/materialspinner/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:materialspinner] /Users/dev.dhar/MaterialSpinner/materialspinner/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:materialspinner] /Users/dev.dhar/Documents/GitHub/MaterialSpinner/materialspinner/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:materialspinner] /Users/dev.dhar/Documents/GitHub/MaterialSpinner/materialspinner/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/f0ee14871b087814911d254e4d1ad244/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/f0ee14871b087814911d254e4d1ad244/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/5eda0129f920e75c2ba9a6d3e39f6008/AndroidManifest.xml:20:5-44
@@ -166,13 +166,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dev.dhar/.gradle
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/ddbbcd01151b893b86efd808b68ffe46/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/eef4dfe3d12d7dc381953693d9398a48/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/dev.dhar/.gradle/caches/transforms-2/files-2.1/eef4dfe3d12d7dc381953693d9398a48/AndroidManifest.xml:20:5-44
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/dev.dhar/MaterialSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/src/main/AndroidManifest.xml
