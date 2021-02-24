@@ -38,7 +38,7 @@ dependencies
 
 
 
-    <com.dev.materialspinner.MaterialSpinner
+    <com.dev.materialSpinner.MaterialSpinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/dp_10"
@@ -48,7 +48,7 @@ dependencies
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
-    </com.dev.materialspinner.MaterialSpinner>
+    </com.dev.materialSpinner.MaterialSpinner>
 
 </android.support.constraint.ConstraintLayout>
 ```
@@ -72,9 +72,19 @@ Set Error in Spinner
 ```bash
 spinner.setError("Please select Country")
 ```
+set setErrorTextColor and setErrorTextColor color added
 
+fun setErrorTextColor(@ColorInt errorTextColor : Int)
+
+fun setErrorTextColor(errorBorderBg : Drawable)
+Now change these by xml too
+```
+app:labelText="Label"
+app:errorTextColor="@color/colorPrimaryDark"
+app:errorBorderDrawable="@drawable/payment_edit_error_red"
+```
 Set Label in Spinner
-```bash
+```
 spinner.setLabel("Country")
 ```
 
