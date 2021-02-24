@@ -24,3 +24,12 @@ local.properties
 .externalNativeBuild
 
 build/
+.idea/caches/build_file_checksums.ser
+.idea/codeStyles/Project.xml
+.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_2_0_4_aar.xml
+.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_2_0_4.xml
+.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml
+.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml
+.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml
+.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml
+*.iml

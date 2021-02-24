@@ -14,14 +14,10 @@ class MaterialSpinner(context: Context, attr: AttributeSet) : LinearLayout(conte
         initializeViews(context, attr)
     }
 
-
-
-
     private lateinit var errorTextView: TextView
     private lateinit var spinner: Spinner
     private lateinit var mLabel: TextView
     private lateinit var spinnerLayout: LinearLayout
-
 
     private fun initializeViews(context: Context, attr: AttributeSet) {
 
@@ -31,14 +27,15 @@ class MaterialSpinner(context: Context, attr: AttributeSet) : LinearLayout(conte
         orientation = LinearLayout.VERTICAL
         layoutParams = LinearLayout.LayoutParams(
             ViewGroup.LayoutParams.MATCH_PARENT,
-            ViewGroup.LayoutParams.WRAP_CONTENT)
+            ViewGroup.LayoutParams.WRAP_CONTENT
+        )
 
         val typedArray = context.obtainStyledAttributes(attr, R.styleable.CustomSpinner, 0, 0)
-        var labelText = typedArray.getString(R.styleable.CustomSpinner_labelText)
+        val labelText = typedArray.getString(R.styleable.CustomSpinner_labelText)
 
         typedArray.recycle()
 
-        spinnerLayout =  findViewById(R.id.spinner_layout)
+        spinnerLayout = findViewById(R.id.spinner_layout)
 
         errorTextView = findViewById(R.id.error);
 
@@ -47,13 +44,12 @@ class MaterialSpinner(context: Context, attr: AttributeSet) : LinearLayout(conte
         mLabel = findViewById(R.id.label);
 
 
-        if (labelText==null) {
+        if (labelText == null) {
             mLabel.visibility = View.GONE
         } else {
             mLabel.text = labelText
             mLabel.visibility = View.VISIBLE
         }
-
     }
 
     fun getSpinner(): Spinner {
@@ -61,16 +57,15 @@ class MaterialSpinner(context: Context, attr: AttributeSet) : LinearLayout(conte
     }
 
     fun setItemSelectedListener(onItemSelectedListener: AdapterView.OnItemSelectedListener) {
-        spinner?.onItemSelectedListener = onItemSelectedListener
+        spinner.onItemSelectedListener = onItemSelectedListener
     }
 
     fun setAdapter(adapter: SpinnerAdapter) {
-        spinner?.adapter = adapter
+        spinner.adapter = adapter
     }
 
-    fun setLabel(labelText: String)
-    {
-        if (labelText == null || labelText.isEmpty()) {
+    fun setLabel(labelText: String) {
+        if (labelText.isEmpty()) {
             mLabel.visibility = View.GONE
         } else {
             mLabel.text = labelText
@@ -79,7 +74,7 @@ class MaterialSpinner(context: Context, attr: AttributeSet) : LinearLayout(conte
     }
 
     fun setError(error: String) {
-        if (error!=null && error.trim().isNotEmpty()) {
+        if (error.trim().isNotEmpty()) {
 
             errorTextView.visibility = View.VISIBLE
             errorTextView.text = error
@@ -91,9 +86,7 @@ class MaterialSpinner(context: Context, attr: AttributeSet) : LinearLayout(conte
         }
     }
 
-
-    fun setErrorEnabled(isErrorEnabled : Boolean)
-    {
+    fun setErrorEnabled(isErrorEnabled: Boolean) {
         if (isErrorEnabled) {
             spinnerLayout.setBackgroundResource(R.drawable.payment_edit_error_bg)
             errorTextView.visibility = View.VISIBLE
@@ -103,5 +96,4 @@ class MaterialSpinner(context: Context, attr: AttributeSet) : LinearLayout(conte
             spinnerLayout.setBackgroundResource(R.drawable.payment_edit_bg)
         }
     }
-
 }
