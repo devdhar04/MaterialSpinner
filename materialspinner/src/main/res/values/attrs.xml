@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="CustomSpinner" >
+    <declare-styleable name="MaterialSpinner" >
         <attr name="labelText" format="string" />
         <attr name="widgetColor" format="color" />
+        <attr name="errorTextColor" format="color"/>
+        <attr name="errorBorderDrawable" format="reference"/>
 
     </declare-styleable>
 </resources>

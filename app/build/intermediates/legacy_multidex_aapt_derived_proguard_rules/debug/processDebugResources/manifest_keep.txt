@@ -1,4 +1,0 @@
-# Referenced at /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:11
--keep class android.support.multidex.MultiDexApplication { <init>(); }
-# Referenced at /Users/dev.dhar/Documents/GitHub/MaterialSpinner/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:11
--keep class android.support.v4.app.CoreComponentFactory { <init>(); }
