@@ -3,9 +3,10 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ca60cf29c810a01d324ef23a19821205/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ca60cf29c810a01d324ef23a19821205/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca60cf29c810a01d324ef23a19821205/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca60cf29c810a01d324ef23a19821205/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca60cf29c810a01d324ef23a19821205/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d192d2e1c8be7538a4803f6c0bda390/support-core-utils-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d192d2e1c8be7538a4803f6c0bda390/support-core-utils-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d192d2e1c8be7538a4803f6c0bda390/support-core-utils-28.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

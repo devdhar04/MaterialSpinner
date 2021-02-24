@@ -1,1 +1,25 @@
-/build
+# Java
+*.class
+
+# Android
+*.apk
+*.ap_
+*.dex
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+# OS
+Thumbs.db
+.DS_Store
+
+.gradle
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/captures
+.externalNativeBuild
+
+# foo/ will ignore all of the sub-folders named "foo"
+build/

@@ -24,3 +24,10 @@ local.properties
 .externalNativeBuild
 
 build/
+*.iml
+*.iml
+*.lock
+*.bin
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/cache.properties
+.gradle/buildOutputCleanup/outputFiles.bin
