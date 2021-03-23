@@ -71,12 +71,14 @@ spinner!!.setAdapter(aa)
 Set Error in Spinner
 ```bash
 spinner.setError("Please select Country")
-```
+
 set setErrorTextColor and setErrorTextColor color added
 
 fun setErrorTextColor(@ColorInt errorTextColor : Int)
 
 fun setErrorTextColor(errorBorderBg : Drawable)
+```
+
 Now change these by xml too
 ```
 app:labelText="Label"
